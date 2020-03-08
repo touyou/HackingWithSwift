@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:WeSplit/WeSplit.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Neumorphism/Neumorphism.xcodeproj">
    </FileRef>
 </Workspace>
